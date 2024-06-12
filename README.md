@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Adarsh C M</h1>
 <h3>A flutter developer and a B.Tech CSE graduate.</h3>
 
-- 🔭 I’m currently working on **Xamify, an exam date notifier for public exams.**
+- 🔭 I’m currently working as **Flutter developer intern at [Engagespot](https://engagespot.co/).**
 
 - 💬 Ask me about **Flutter and Google Firebase**.
 
