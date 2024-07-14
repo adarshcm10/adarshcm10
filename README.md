@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Flutter and Google Firebase**.
 
-- 📝 My [Resume](https://github.com/adarshcm10/adarshcm10/blob/main/Adarsh_C_M_Resume.pdf).
+- 📝 My [Resume](https://github.com/adarshcm10/adarshcm10/blob/main/ADARSH_C_M_Resume.pdf).
 
 - 📫 Reach me at  **cmadarsh10@gmail.com**.
 
