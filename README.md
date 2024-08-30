@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Adarsh C M</h1>
 <h3>A flutter developer and a B.Tech CSE graduate.</h3>
 
-- 🔭 I’m currently working as **Flutter developer intern at [Logidots](https://logidots.com/).**
-
-- 💬 Ask me about **Flutter and Google Firebase**.
+- 🔭 I’m currently working as **Flutter developer at [Logidots](https://logidots.com/).**
 
 - 📝 My [Resume](https://github.com/adarshcm10/adarshcm10/blob/main/ADARSH_C_M_Resume.pdf).
 
