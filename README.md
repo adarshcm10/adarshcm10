@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Flutter developer at [Logidots](https://logidots.com/).**
 
-- 📝 My [Resume](https://github.com/adarshcm10/adarshcm10/blob/main/ADARSH_C_M_Resume.pdf).
+- 📝 My [Resume](https://github.com/adarshcm10/adarshcm10/blob/main/ADARSH-C-M-Resume.pdf).
 
 - 📫 Reach me at  **cmadarsh10@gmail.com**.
 
